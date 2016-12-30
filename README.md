@@ -12,4 +12,6 @@
 
 ### Structural Patterns
 
-* [Front Controller](https://github.com/xstrengthofonex/python-design-patterns/tree/master/front_controller "Front Controller")
+* [Front Controller Pattern](https://github.com/xstrengthofonex/python-design-patterns/tree/master/front_controller_pattern "Front Controller Pattern")
+
+* [Intercepting Filter Pattern](https://github.com/xstrengthofonex/python-design-patterns/tree/master/intercepting_filter_pattern "Intercepting Filter Pattern")
