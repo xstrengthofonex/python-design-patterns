@@ -10,7 +10,7 @@
 
 * [Mediator Pattern](https://github.com/xstrengthofonex/python-design-patterns/tree/master/mediator_pattern "Mediator Pattern")
 
-### Structural Patterns
+### Architectural Patterns
 
 * [Front Controller Pattern](https://github.com/xstrengthofonex/python-design-patterns/tree/master/front_controller_pattern "Front Controller Pattern")
 
