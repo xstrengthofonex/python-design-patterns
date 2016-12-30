@@ -5,8 +5,8 @@ from colleagues import User
 
 class FacebookClient(object):
 
-	@classmethod
-	def main(cls):
+	@staticmethod
+	def main():
 		facebook_group_mediator = FacebookGroupMediator()
 		vince = User(facebook_group_mediator, "Vince")
 		dave = User(facebook_group_mediator, "Dave")
